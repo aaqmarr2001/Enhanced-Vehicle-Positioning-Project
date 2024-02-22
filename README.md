@@ -1,7 +1,5 @@
 ﻿<a name="br1"></a> 
 
-**Project 1 Report**
-
 **Enhanced Vehicle Positioning Using Machine Learning and Neural Networks**
 
 **Abstract**
@@ -90,7 +88,9 @@ Evaluation with # of neighbors = 3
 
 
 
-<a name="br3"></a> 
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/2147f212-f4a6-4ab0-95ab-7fd34cf657d1)
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/b3195016-6e78-44e9-9523-c6b185e73eda)
+
 
 2\. ANN Model
 
@@ -202,7 +202,11 @@ indication of the model's generalization performance.
 
 
 
-<a name="br5"></a> 
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/5ad714b5-6573-4468-8993-523e3206e388)
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/d456d6c1-b0af-4bfa-a04d-10c445e16929)
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/5490e8de-ae82-473b-9ffb-cab447533bca)
+
+
 
 **Position Estimation**
 
@@ -292,5 +296,9 @@ overfitting or underfitting.
 
 
 
-<a name="br7"></a> 
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/5bff7d45-90d9-446f-967b-1e2b4d379cfa)
+
+![image](https://github.com/aaqmarr2001/Enhanced-Vehicle-Positioning-Project/assets/91699635/7fd82b5f-eab1-4a6e-93b5-0a64d39e964d)
+
+
 
